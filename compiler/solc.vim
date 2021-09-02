@@ -8,7 +8,7 @@ if exists("current_compiler")
 endif
 let current_compiler = "solc"
 
-setlocal makeprg=truffle\ compile\ $*
+setlocal makeprg=hardhat\ compile\ $*
 
 setlocal errorformat=\\,%f:%l:%c:\ %m,
                     \Error\ parsing\ %f:\ %.%#:%l:%c:\ %m,
