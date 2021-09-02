@@ -2,7 +2,7 @@
 ![Demo](https://i.imgur.com/20gY86k.png)
 
 ## Dependencies
-This plugin uses the `truffle compile` command, so you must have [Truffle](https://github.com/trufflesuite/truffle) installed.
+This plugin uses the `hardhat compile` command, so you must have [Hardhat](https://github.com/nomiclabs/hardhat) installed.
 
 ## Installation
 
